@@ -1,0 +1,6 @@
+{
+  "name": "Margin and ROI Dashboard",
+  "description": "A professional financial dashboard for managing item cost structures, sales prices, quantities, contribution margins, and projected ROIs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
